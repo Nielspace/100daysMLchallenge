@@ -28,3 +28,13 @@ Learning something new with ML each day. The motive behind this repo is to spend
 
 > **Note: Learning Data Exploration**
 > - Learning to explore correlation and colinearity and also reason out the plausible conclusion as how and why a particular feature is important. 
+
+# Day 4
+## 13 January 
+> Dataset : Medical cost personal dataset
+
+> **Note: Intro to Unsupervised Learning**
+> - Using clusterring to understand the distribution of data and make sense of it. 
+> - The next two days will learning and understanding:
+>>  - K-means clusterring 
+>>  - Hierarchical clusterring
