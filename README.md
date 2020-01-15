@@ -1,4 +1,4 @@
-# 100daysMLchallenge
+# 100daysMLchallenge Notes and Accountability
 
 Learning something new with ML each day. The motive behind this repo is to spend 30 mins or more in an ML problem and learn something new. 
 
@@ -53,4 +53,8 @@ Learning something new with ML each day. The motive behind this repo is to spend
 
 > **Note: Feature Engineering and Modeling**
 > - Explored various methods to drop features and transform feature to make a reliable machine learning model. Used techniques from Jeremy Howard's fast.ai lessons. 
+> - In the end, I used Linear Regression and Random Forest Regression to complete the first project of 100daysML challenge. 
+> - I closed with an accuracy of 82% in both training and testting dataset, which far eliminates the question of overfitting and underfitting. 
+
+> - Link to the notebook is <a href='https://github.com/Nielspace/100daysMLchallenge/blob/master/100daysMachineLearningChallenge/Project%2001%20-%20Patient%20Charge%20sheet.ipynb'>here -- Project 01 </a>
 
