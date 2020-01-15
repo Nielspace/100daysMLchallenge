@@ -47,3 +47,10 @@ Learning something new with ML each day. The motive behind this repo is to spend
 > **Note: Intro to Unsupervised Learning -- KMeans**
 > - In the quick half an hour session that I got to learn something about K-means clusterring is that it find groups or cluster based upon the centroid which is quite un-reliable which I though in the beginning but later on as I started to look more into the centroid patterns started to emerge. For example in manual clusterring there was no distinct geography on which the data is being seperated it is just based upon the fact that some data share a particular property where as others do not. In case of KMeans we see a distinct geography seperating the two region or the clusters. KMeans serves as opportunity to segregate the based upon the gravity of the center also known as the centroid. An emerging cluster finds its way by creating different centriods and then reducing the error to reach the center of the cluster. 
 
+# Day 6
+## 15 January 
+> Dataset : Medical cost personal dataset
+
+> **Note: Feature Engineering and Modeling**
+> - Explored various methods to drop features and transform feature to make a reliable machine learning model. Used techniques from Jeremy Howard's fast.ai lessons. 
+
