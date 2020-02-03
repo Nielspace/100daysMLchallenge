@@ -60,3 +60,9 @@ Learning something new with ML each day. The motive behind this repo is to spend
 
 > - You can download the project from<a href='https://github.com/Nielspace/100daysMLchallenge/blob/master/100daysMachineLearningChallenge/Project%2001%20-%20Patient%20Charge%20sheet.ipynb'> here</a>
 
+# Day 7
+## 3 Febuary 
+> Dataset : Pulsar star
+
+> **Note: Data Visualisation**
+> - Different kind of distribution is helpful in modelling a good machine model.
