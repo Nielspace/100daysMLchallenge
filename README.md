@@ -1,4 +1,4 @@
-# 100daysMLchallenge Notes and Accountability
+# 100daysMLchallenge Notes
 
 Learning something new with ML each day. The motive behind this repo is to spend 30 mins or more in an ML problem and learn something new. 
 
