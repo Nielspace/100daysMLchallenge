@@ -66,3 +66,15 @@ Learning something new with ML each day. The motive behind this repo is to spend
 
 > **Note: Data Visualisation**
 > - Different kind of distribution is helpful in modelling a good machine model.
+
+
+# Day 8
+## 4 Febuary 
+> Dataset : Pulsar star
+
+> **Note: Studying Outliers**
+> - Working on outliers
+> - Outliers seems to be problematic. Removing outliers eventually affects the loss of data or reduction of observations. With less observations we have limited source to forecast or even find patterns. 
+> - Instead of removing outliers we can transform them or even use different machine learning modelling to build a good classifier
+> - Today in my approach I looked upon removing outlier from an imbalanced dataset. Although the data had enough observations but while removing outliers I was certain that the number of observations will reduce drastically, because almost all the features had outliers. 
+> - In order to solve the above problem I used the scaling method. More specifically Robust scaler because it reduces the effect of outliers in the dataset. 
