@@ -78,3 +78,11 @@ Learning something new with ML each day. The motive behind this repo is to spend
 > - Instead of removing outliers we can transform them or even use different machine learning modelling to build a good classifier
 > - Today in my approach I looked upon removing outlier from an imbalanced dataset. Although the data had enough observations but while removing outliers I was certain that the number of observations will reduce drastically, because almost all the features had outliers. 
 > - In order to solve the above problem I used the scaling method. More specifically Robust scaler because it reduces the effect of outliers in the dataset. 
+
+## 5 Febuary 
+> Dataset : Pulsar star
+
+> **Note: Studying Outliers**
+> - Read a paper called "Robust Decision Tree Removing Outliers".
+> - Key points from the paper were that outliers are best removed from the non-parametric model. 
+
