@@ -85,5 +85,5 @@ Learning something new with ML each day. The motive behind this repo is to spend
 
 > **Note: Studying Outliers**
 > - Read a paper called "Robust Decision Tree Removing Outliers".
-> - Key points from the paper were that outliers are best removed from the non-parametric model. 
+> - Key points from the paper were, outliers are best removed from the non-parametric model. 
 
