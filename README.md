@@ -1,6 +1,6 @@
 # 100daysMLchallenge Notes
 
-Learning something new with ML each day. The motive behind this repo is to spend 30 mins or more in an ML problem and learn something new. 
+Learning something new with Machine learning each day. The motive behind this repo is to spend 30 mins or more in an ML problem and learn something new. 
 
 # Day 1
 ## 6 January 
