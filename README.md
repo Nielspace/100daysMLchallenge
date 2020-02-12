@@ -1,4 +1,4 @@
-# 100daysMLchallenge Notes
+# 100daysMLchallenge Note
 
 Learning something new with Machine Learning each day. The motive behind this repo is to spend 30 mins or more in an ML problem and learn something new. 
 
